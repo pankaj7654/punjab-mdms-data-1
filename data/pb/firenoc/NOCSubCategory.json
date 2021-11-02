@@ -33,6 +33,12 @@
       "NOCCategory": "COLLEGE"
     },
     {
+      "name": "Arts College",
+      "code": "ARTSCOLLEGE",
+      "active": true,
+      "NOCCategory": "COLLEGE"
+    },
+    {
       "name": "Commercial Building",
       "code": "COMMERCIALBUILDING",
       "active": true,
