@@ -307,6 +307,12 @@
           "active": true,
           "NBCGroup": "Group B Educational",
           "NBCSubGroup": "B1"
+        },
+        {
+          "code": "ARTSCOLLEGE",
+          "active": true,
+          "NBCGroup": "Group B Educational",
+          "NBCSubGroup": "B1"
         }
       ]
     },
